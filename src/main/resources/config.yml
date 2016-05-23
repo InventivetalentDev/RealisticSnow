@@ -1,0 +1,17 @@
+#Interval of snow iterations
+interval: 80
+
+#Maximum radius around players for snow to update
+radius: 8
+
+#Probability for a snow layer to update (0-100%)
+probability: 50
+
+#List of biomes affected by the plugin
+biomes:
+  - FROZEN_RIVER
+  - ICE_PLAINS
+  - ICE_PLAINS_SPIKES
+  - COLD_BEACH
+  - COLD_TAIGA
+  - COLD_TAIGA_MOUNTAINS

@@ -1,0 +1,4 @@
+name: RealisticSnow
+main: org.inventivetalent.realisticsnow.RealisticSnow
+author: inventivetalent
+version: ${project.version}
